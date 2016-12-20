@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculMental</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bon">Right</string>
+    <string name="mauvais">Wrong</string>
+    <string name="titre">Calcule Mental</string>
+    <string name="jouer">Jouer</string>
+    <string name="stats">Statistique</string>
+    <string name="options">Options</string>
+    <string name="quitter">Quitter</string>
+    <string name="valider">OK</string>
+    <string name="difficulte">Difficulté</string>
+    <string name="facile">Facile</string>
+    <string name="moyen">Moyen</string>
+    <string name="difficile">Dificille</string>
+    <string name="hardcore">Très difficile</string>
+    <string name="question">Êtes-vous vraiment sur de choisir très difficile ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="choix">Êtes-vous sur ?</string>
+    <string name="anglais">Anglais</string>
+    <string name="francais">Français</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="vHard">Very Hard</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="close">Close</string>
+    <string name="retour">Retour</string>
+    <string name="title">Mental Calculation</string>
+    <string name="play">Play</string>
+    <string name="stat">Statistic</string>
+    <string name="quit">Quit</string>
+    <string name="returnEn">Return</string>
+    <string name="entrainement">Entrainement</string>
+    <string name="nbrTotal">Nombres Essais</string>
+    <string name="nbrFaux">Nombre Erreur</string>
+    <string name="pourcentFr">Pourcentage Reussit</string>
+    <string name="PourcentEn">Percentage succeeds</string>
+    <string name="toastFr">Vous n\'avez pas entrée de chiffre</string>
+    <string name="toastEn">You have no input figure</string>
+    <string name="EntrainementFR">entrainement</string>
+    <string name="EntrainementEN">Training</string>
+    <string name="ModeFR">Mode de jeu</string>
+    <string name="ModeEN">Game mode</string>
+    <string name="TestFR">Mode test</string>
+    <string name="TestEN">Test mode</string>
+    <string name="bonFR">Bon</string>
+    <string name="mauvaisFR">mauvais</string>
+
+</resources>
